@@ -42,6 +42,14 @@
 			"}"
 		],
 		"description": "Function"
+	},
+
+	"Route Get Laravel":{
+		"prefix": "rget",
+		"body": [
+			"Route::get('$1', '$2');"
+		], 
+		"description": "Route Get Laravel"
 	}
 	
 }
