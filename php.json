@@ -50,6 +50,14 @@
 			"Route::get('$1', '$2');"
 		], 
 		"description": "Route Get Laravel"
+	},
+
+	"Route Post Laravel":{
+		"prefix": "rpost",
+		"body": [
+			"Route::post('$1', '$2');"
+		], 
+		"description": "Route Post Laravel"
 	}
 	
 }
