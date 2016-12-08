@@ -58,6 +58,14 @@
 			"Route::post('$1', '$2');"
 		], 
 		"description": "Route Post Laravel"
+	},
+
+	"Route Patch Laravel":{
+		"prefix": "rpatch",
+		"body": [
+			"Route::patch('$1', '$2');"
+		], 
+		"description": "Route Patch Laravel"
 	}
 	
 }
